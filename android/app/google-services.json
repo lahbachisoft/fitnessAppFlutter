@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "523658346406",
+    "firebase_url": "https://app-fettn-default-rtdb.firebaseio.com",
+    "project_id": "app-fettn",
+    "storage_bucket": "app-fettn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523658346406:android:4caff2782d59609b7f5967",
+        "android_client_info": {
+          "package_name": "com.drake.fitness_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523658346406-9fcmq7igoq0f3m4d2v58v42s544c18nf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7VLjfSDFowxFFFNkmqQfyaOwnUQM7LNc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "523658346406-9fcmq7igoq0f3m4d2v58v42s544c18nf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
